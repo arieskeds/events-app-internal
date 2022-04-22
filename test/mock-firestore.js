@@ -13,7 +13,7 @@ const mockEvents = [
     {
         id: 2,
         data: function () {
-            return { title: 'another firestore event', id: 2, description: 'something even cooler', location: 'Johns pizza', likes: 0 };
+            return { title: 'another firestore event', id: 2, description: 'something even cooler', location: 'Johns burger', likes: 0 };
         }
     },
 
